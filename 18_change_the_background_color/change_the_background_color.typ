@@ -7,7 +7,7 @@
 
 请注意，如果没有相机存在，窗口将是黑色的。你必须至少生成一个相机。
 ```Rust
-.insert_resource(ClearColor(Color::Srgba(tailwind::SKY_300)))
+.insert_resource(ClearColor(Color::Srgba(tailwind::GREEN_300)))
 ```
 
 要覆盖默认颜色并为特定相机使用不同的颜色，可以使用 Camera 组件进行设置。
