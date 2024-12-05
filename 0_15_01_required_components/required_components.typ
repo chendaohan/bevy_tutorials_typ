@@ -2,7 +2,7 @@
 #set text(fill: color.hsv(0deg, 0%, 100%, 100%), size: 18pt, font: "Microsoft YaHei")
 #set raw(theme: "themes/Material-Theme.tmTheme")
 
-= 1. （“必须组件”）必须组件
+= 1. Required Components （必须组件）
 #image("images/required_component.svg", width: 50%)
 
 首先，请系好安全带，因为“必须组件”是自 Bevy 首次发布以来对 Bevy API 表面的最深刻改进之一。
